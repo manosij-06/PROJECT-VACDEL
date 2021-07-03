@@ -1,4 +1,10 @@
 # PROJECT-VACDEL
+NAME : MANOSIJ TARAFDAR
+COLLEGE : MCKV INSTITUTE OF ENGINEERING , HOWRAH
+SESSION : 2020-21 (2nd YEAR)
+FINISHED ON : 10th JANUARY 2021
+
+
 PROJECT ON VACCINE DELIVERY SOLUTION
 
 In this situation of pandemic ,vaccination is the only option to soften the hit of pandemic.But a country with such a large population vaccination is a tall
